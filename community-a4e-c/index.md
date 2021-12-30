@@ -1,6 +1,6 @@
 ![Community A-4E-C for DCS World, v2.0](https://cdn.discordapp.com/attachments/518815335013679104/884550978131619870/unknown.png)
 
-[Click me](http://www.google.com){: .btn}
+[Link button](http://example.com/){: .btn .btn-green }
 
 ## About the A-4E-C Project
 

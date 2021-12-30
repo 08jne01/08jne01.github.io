@@ -1,5 +1,3 @@
-{% include buttons.html %}
-
 ![Community A-4E-C for DCS World, v2.0](https://cdn.discordapp.com/attachments/518815335013679104/884550978131619870/unknown.png)
 
 [Download](https://github.com/heclak/community-a4e-c/releases/latest) | 

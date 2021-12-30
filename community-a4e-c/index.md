@@ -2,8 +2,8 @@
 
 [Download](https://github.com/heclak/community-a4e-c/releases/latest){: .btn .btn-green }
 [Report a Bug](https://github.com/heclak/community-a4e-c/issues){: .btn .btn-red }
-[Link button](http://example.com/){: .btn .btn-green }
-[Link button](http://example.com/){: .btn .btn-green }
+[Discord](https://discord.gg/tQZbkTQ){: .btn .btn-purple }
+[Github](https://github.com/heclak/community-a4e-c){: .btn .btn-blue }
 
 ## About the A-4E-C Project
 

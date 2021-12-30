@@ -9,3 +9,4 @@ navbar-links:
   
 plugins:
   - jekyll-sitemap
+  - jekyll-paginate

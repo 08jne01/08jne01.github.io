@@ -1,5 +1,7 @@
 ![Community A-4E-C for DCS World, v2.0](https://cdn.discordapp.com/attachments/518815335013679104/884550978131619870/unknown.png)
 
+[Click me](http://www.google.com){: .btn}
+
 ## About the A-4E-C Project
 
 The A-4 was a cold war workhorse which proved to be a capable, reliable light attack aircraft to dozens of nations around the world. From the jungles of southeast Asia, to the desert of Sinai, to the coasts of South America, the scooter was a common sight above battlefields around the world for decades.

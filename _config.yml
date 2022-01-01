@@ -1,4 +1,4 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: jekyll-theme-cayman
 title: Community A-4E Project
 name: The Community Repo for A-4E-C and its Official Submods
 navbar-links:
@@ -10,4 +10,3 @@ navbar-links:
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-remote-theme

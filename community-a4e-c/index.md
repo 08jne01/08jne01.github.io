@@ -1,4 +1,4 @@
-<iframe src="https://www.youtube.com/embed/jlE2nPgP6WU" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+
 
 [Download](https://github.com/heclak/community-a4e-c/releases/latest) | 
 [Report a Bug](https://github.com/heclak/community-a4e-c/issues) |

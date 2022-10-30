@@ -1,3 +1,5 @@
+![Community A-4E-C for DCS World, v2.0](https://cdn.discordapp.com/attachments/518815335013679104/884550978131619870/unknown.png)
+
 <iframe src="https://www.youtube.com/embed/jlE2nPgP6WU" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 
 [Download](https://github.com/heclak/community-a4e-c/releases/latest) | 
@@ -52,8 +54,6 @@ SkateZilla, uboats, Dr. Manius, LevelPulse, Cubeboy, Talo, GVad, OpticFlow, pohl
   - SUU-7 bomblet dispenser
 - Unique sounds inside and outside the aircraft
 - User manual (PDF and Kneeboard)
-
-![Community A-4E-C for DCS World, v2.0](https://cdn.discordapp.com/attachments/518815335013679104/884550978131619870/unknown.png)
 
 ### Version 2.0 Changelog: Featured Items
 
@@ -125,7 +125,7 @@ SkateZilla, uboats, Dr. Manius, LevelPulse, Cubeboy, Talo, GVad, OpticFlow, pohl
   - Fixed FFB stick support.
   - Fixed lots, and lots, and we mean LOTS of bugs. *(thanks to the many A-4E-C users who helped identify, replicate and solve these!)*
 
-[See full changelog](https://github.com/heclak/community-a4e-c/blob/develop/CHANGELOG.md)
+[See full changelog](https://github.com/heclak/community-a4e-c/blob/master/CHANGELOG.md)
 
 ### Known Bugs and Incompatibilities
 
